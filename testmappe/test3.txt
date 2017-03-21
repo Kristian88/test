@@ -1,9 +1,13 @@
-Dette er en test
+aDette er en test
 fdgdfgdfg
 sdfsdf
 
+<<<<<<< Updated upstream
 xcvxcvxcvxcv
 
 xcvxcvxcv
 xcv
 xcvxcv
+=======
+xcvxcvasdasd
+>>>>>>> Stashed changes
